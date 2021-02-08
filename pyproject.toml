@@ -1,11 +1,13 @@
 [tool.poetry]
-name = "ls"
+name = "test"
 version = "0.1.0"
 description = ""
 authors = ["Choi702 <jaeychoi1@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+nltk = "^3.5"
+pytest = "^6.2.2"
 
 [tool.poetry.dev-dependencies]
 
